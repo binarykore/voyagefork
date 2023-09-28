@@ -7,13 +7,21 @@
 
 ``
 $_string = preg_match_all(regex,string,match);
+
 switch(match[0]){
+
 case("www.google.com):
+
 //Insert Google SVG Logo here..
+
 break;
+
 default:
+
 //Return NULL..
+
 break;
+
 }//
 ``
 
