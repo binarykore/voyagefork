@@ -7,6 +7,7 @@
 
 
 &lt;?php
+
 ``
 $_string = preg_match_all(regex,string,match);
 ``
@@ -42,4 +43,5 @@ break;
 ``
 }//
 ``
+
 ?&gt;
