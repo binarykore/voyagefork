@@ -4,6 +4,7 @@
 * It uses regex to filter out http and https, (http|https) which will detect only the Hostname of the Domain ..
 
 &lt;?php
+
 ``
 $_string = preg_match_all(regex,string,match);
 switch(match[0]){
@@ -15,4 +16,5 @@ default:
 break;
 }//
 ``
+
 ?&gt;
