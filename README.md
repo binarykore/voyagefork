@@ -3,16 +3,15 @@
 * Used for URLs or Links that are submitted or posted in your App or Platforms ..
 * It uses regex to filter out http and https, (http|https) which will detect only the Hostname of the Domain ..
 
-``
 &lt;
+``
 $_string = preg_match_all(regex,string,match);
 switch(match[0]){
 case("www.google.com):
-//insert Google SVG Logo here..
+//Insert Google SVG Logo here..
 break;
 default:
-//return NULL..
+//Return NULL..
 break;
 }//
-&gt;
 ``
