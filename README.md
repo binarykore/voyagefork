@@ -3,7 +3,7 @@
 * Used for URLs or Links that are submitted or posted in your App or Platforms ..
 * It uses regex to filter out http and https, (http|https) which will detect only the Hostname of the Domain ..
 
-## Sample Syntax:
+### Sample Syntax:
 
 
 &lt;?php
@@ -45,3 +45,6 @@ break;
 ``
 
 ?&gt;
+
+### Copyright since ( 2023 )
+( C ) - [BinaryKore](https://github.com/binarykore), 09225205353
