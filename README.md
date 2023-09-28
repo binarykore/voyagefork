@@ -6,6 +6,7 @@
 &lt;?php
 
 ``
+
 $_string = preg_match_all(regex,string,match);
 
 switch(match[0]){
@@ -23,6 +24,7 @@ default:
 break;
 
 }//
+
 ``
 
 ?&gt;
