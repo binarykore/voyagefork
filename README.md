@@ -3,8 +3,40 @@
 * Used for URLs or Links that are submitted or posted in your App or Platforms ..
 * It uses regex to filter out http and https, (http|https) which will detect only the Hostname of the Domain ..
 
-### Sample Syntax:
 
+## Donations and Payments:
+<details>
+<summary>Donations and Payments</summary>
+<p>
+  <code>EWallet - Send Money</code>
+  <br/>
+  <br/>
+  <code>Send Money: 09225205353 (GCash)</code>
+  <br/>
+  <code>Send Money: 09225205353 (Maya, soon)</code>
+  <br/>
+  <code>Send Money: 09225205353 (Coins PH)</code>
+  <br/>
+  <code>Send Money: 09225205353 (Palawan Pay)</code>
+  <br/>
+  <code>Remittance: 09225205353 (7/11 > GCash / Coins PH / Maya, soon)</code>
+  <br/>
+  <code>Remittance: 09225205353 (Palawan > GCash / Coins PH / Maya, soon)</code>
+  <br/>
+  <code>Remittance: 09225205353 (Cebuana > GCash / Coins PH / Maya, soon)</code>
+  <br/>
+  <code>Remittance: 09225205353 (MLhuillier > GCash / Coins PH / Maya, soon)</code>
+</p>
+<br/>
+<p>
+  <code>QR Code (GCash):</code>
+</p>
+<p>
+  <img src="https://cdn.snowkel.us/image/redirect/gcash"></img>
+</p>
+</details>
+
+## Sample Syntax:
 
 &lt;?php
 
